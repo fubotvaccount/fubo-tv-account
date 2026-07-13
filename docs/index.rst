@@ -7,6 +7,7 @@ How to Login to Your Fubo TV Account
 Fubo TV is a leading live TV streaming service that offers access to sports, news, entertainment, and on-demand content. By logging into your Fubo TV account, you can stream your favorite channels, manage your subscription, update your account settings, and enjoy a personalized viewing experience across multiple devices.
 
 Whether you're using a web browser, smartphone, tablet, smart TV, or streaming device, signing in to your Fubo TV account is quick and secure.
+
 .. image:: https://img.shields.io/badge/Login%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
    :width: 200px
    :align: center
